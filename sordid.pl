@@ -27,10 +27,10 @@ my @list = (
     );
 
 my %scores = (
-    'crunchy' => 1,
-    'mushy' => 2,
-    'blah'  => 3,
-    'other'   => 4,
+    'crunchy' => 4,
+    'mushy' => 3,
+    'blah'  => 2,
+    'omnomnom'   => 1,
     );
 
 sub _get_plant_family {
